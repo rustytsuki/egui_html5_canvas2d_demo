@@ -8,4 +8,4 @@ you can run it in browser as following steps:
 
 * Install Trunk with `cargo install --locked trunk`.
 * Run `trunk serve --port 8081` to build and serve on `http://127.0.0.1:8081`. Trunk will rebuild automatically if you edit the project.
-* Open `http://127.0.0.1:8081/index.html#dev` in a browser. See the warning below.
+* Open `http://127.0.0.1:8081/index.html#dev` in a browser.
